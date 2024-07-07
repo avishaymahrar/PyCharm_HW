@@ -5,3 +5,4 @@ z: int = int (input ("what is z "));
 print ('x + y + z =', x + y + z);
 print ('x * y * z =', x * y * z);
 ##end
+##test
